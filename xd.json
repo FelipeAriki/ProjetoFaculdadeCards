@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6462ca8c3c950d50851e8241"
+  },
+  "logo": "https://logodownload.org/wp-content/uploads/2014/05/brahma-logo-0.png",
+  "cargo": "Desenvolvedor JR",
+  "cidade": "Presidente Prudente",
+  "estado": "São paulo",
+  "requisitos": "Mínimo 1 ano de experiência",
+  "formacao": "Cursando ensino superior na área de TI",
+  "conhecimentos": "Node, MongoDB, TypeScript, Vue.js",
+  "regime": "CLT",
+  "jornada": "8h/dia",
+  "remuneracao": "3500"
+},{
+  "_id": {
+    "$oid": "6462ca8c3c950d50851e8242"
+  },
+  "logo": "https://logospng.org/download/skol/logo-skol-4096.png",
+  "cargo": "Desenvolvedor PL",
+  "cidade": "São paulo",
+  "estado": "São paulo",
+  "requisitos": "Mínimo 2 anos de experiência",
+  "formacao": "Cursando ensino superior na área de TI",
+  "conhecimentos": ".NET, SqlServer, TypeScript, Vue.js",
+  "regime": "CLT",
+  "jornada": "8h/dia",
+  "remuneracao": "5000"
+},{
+  "_id": {
+    "$oid": "6462ca8c3c950d50851e8243"
+  },
+  "logo": "https://www.idinheiro.com.br/wp-content/uploads/2022/08/stone-2048.png",
+  "cargo": "Desenvolvedor SR",
+  "cidade": "Joinville",
+  "estado": "Santa catarina",
+  "requisitos": "Mínimo 5 anos de experiência",
+  "formacao": "Ensino superior completo na área de TI",
+  "conhecimentos": ".NET, SqlServer, TypeScript, Vue.js, Arquitetura, DDD, TDD",
+  "regime": "PJ",
+  "jornada": "8h/dia",
+  "remuneracao": "15000"
+},{
+  "_id": {
+    "$oid": "646bdc76f1a38d7ea186c947"
+  },
+  "logo": "https://www.idinheiro.com.br/wp-content/uploads/2022/08/stone-2048.png",
+  "cargo": "Analista de qualidade JR",
+  "cidade": "Joinville",
+  "estado": "Santa catarina",
+  "requisitos": "Mínimo 5 anos de experiência",
+  "formacao": "Ensino superior completo na área de TI",
+  "conhecimentos": "Teste unitários, testes de integração e testes automatizados",
+  "regime": "PJ",
+  "jornada": "8h/dia",
+  "remuneracao": "15000"
+},{
+  "_id": {
+    "$oid": "646bdc87f1a38d7ea186c948"
+  },
+  "logo": "https://logodownload.org/wp-content/uploads/2014/05/brahma-logo-0.png",
+  "cargo": "Desenvolvedor PL",
+  "cidade": "Presidente Prudente",
+  "estado": "São paulo",
+  "requisitos": "Mínimo 1 ano de experiência",
+  "formacao": "Cursando ensino superior na área de TI",
+  "conhecimentos": "Node, MongoDB, TypeScript, Vue.js",
+  "regime": "CLT",
+  "jornada": "8h/dia",
+  "remuneracao": "3500"
+},{
+  "_id": {
+    "$oid": "646bdd08f1a38d7ea186c949"
+  },
+  "logo": "https://logospng.org/download/skol/logo-skol-4096.png",
+  "cargo": "Desenvolvedor SR",
+  "cidade": "São paulo",
+  "estado": "São paulo",
+  "requisitos": "Mínimo 2 anos de experiência",
+  "formacao": "Cursando ensino superior na área de TI",
+  "conhecimentos": ".NET, SqlServer, TypeScript, Vue.js",
+  "regime": "CLT",
+  "jornada": "8h/dia",
+  "remuneracao": "9000"
+}]
