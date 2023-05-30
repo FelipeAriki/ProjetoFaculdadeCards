@@ -9,4 +9,7 @@ export default class vagaController {
     obterVagasPorCargo(req, res){
         dal.obterVagasPorCargo(req, res);
     }
+    cadastrarVaga(req, res){
+        dal.cadastrarVaga(req, res);
+    }
 }

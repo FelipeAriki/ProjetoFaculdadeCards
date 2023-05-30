@@ -26,5 +26,16 @@ export default class vagasDAL {
                     })
             });
     }
+    async cadastrarVaga (req, res) {
+        MongoClient.connect(url)
+            .then(db => {
+                const dbo = db.db("vagasdb");
+                dbo.collection("vagas").insertOne(req.body)
+                    .then(result => {
+                        db.close()
+                        res.send(result)
+                    })
+            });
+    }
     
 }
