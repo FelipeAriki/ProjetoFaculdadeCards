@@ -4,8 +4,9 @@ import cors from 'cors'
 
 const app = express();
 app.use(cors())
-app.use(croutes)
 app.use(express.json())
+app.use(croutes)
+
 
 app.listen(8081, ()=>{
     console.log("Servidor na porta 8081");
